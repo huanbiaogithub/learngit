@@ -13,3 +13,4 @@ public class MainActivity extends AppCompatActivity {
 }
 
 hello git
+Git has a notable index called stage
