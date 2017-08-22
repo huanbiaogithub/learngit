@@ -16,6 +16,6 @@ hello git
 Git has a notable index called stage
 Git tracks changes.
 Creating a new branch is quick.
-
+This place means solve bug
 Creating a new branch is quick & simple.
 add something
